@@ -6,7 +6,7 @@ I'm an Android Software Engineer
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [andrew.malitchuk@gmail.con](mailto:andrew.malitchuk@gmail.con)
-* 🚀  I'm currently working on [\[YAAUM\] Yet Another Apps Usage Monitor](http://https://github.com/andrew-malitchuk/yet-another-apps-usage-monitor)
+* 🚀  I'm currently working on [\[YABD\] Yet Another Build Dispatcher](https://github.com/andrew-malitchuk/yet-another-build-dispatcher)
 * 🤝  I'm open to collaborating on any Android project
 
 ### Skills
