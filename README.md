@@ -1,7 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Malitchuk
-========================================================================================================================================
-
-I'm an Android Software Engineer
+Andrew Malitchuk [Android Software Engineer]
 --------------------------------
 
 * 🌍  I'm based in Ukraine
@@ -11,17 +8,15 @@ I'm an Android Software Engineer
 
 ### Skills
 
-
-   <div align="left">
-        <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-    </div>
-
+<div align="left">
+     <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+     <img width="12" />
+     <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+     <img width="12" />
+     <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+     <img width="12" />
+     <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+ </div>
 
 ### Socials
 
@@ -33,4 +28,10 @@ I'm an Android Software Engineer
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrew-malitchuk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=andrew-malitchuk&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/andrew-malitchuk/count.svg?"  />
 </div>
