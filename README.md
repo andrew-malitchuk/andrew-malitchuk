@@ -12,9 +12,15 @@ I'm an Android Software Engineer
 ### Skills
 
 
-<p align="left">
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-</p>
+   <div align="left">
+        <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+    </div>
 
 
 ### Socials
@@ -23,10 +29,7 @@ I'm an Android Software Engineer
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/andrew-malitchuk"><img src="https://github-readme-stats.vercel.app/api?username=andrew-malitchuk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="andrew-malitchuk's GitHub stats" /></a>
-
-<a href="http://www.github.com/andrew-malitchuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-malitchuk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/andrew-malitchuk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=andrew-malitchuk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=andrew-malitchuk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+        <img src="https://streak-stats.demolab.com?user=andrew-malitchuk&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    </div>
